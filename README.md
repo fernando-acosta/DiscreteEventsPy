@@ -1,4 +1,4 @@
-# Simulating an M/M/1 Queueing System with Python and SimPy
+# Simulating an M/M/1 Queueing System with Python
 
 ## Purpose
 This project demonstrates how to simulate an $$\(M/M/1\)$$ queueing system using the **SimPy** library in Python. It provides an illustrative example for:
